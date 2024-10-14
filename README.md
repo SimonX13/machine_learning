@@ -1,5 +1,5 @@
 # Machine Learing and Data Mining Projects
-**Brief description**: Reimplementation of machine learning model in Numpy in the context of UBC CPSC340.
+**Brief description**: Implementation of machine learning models in Numpy in the context of UBC CPSC340.
 
 ## Table of Contents
 - [About the Project](#about-the-project)
