@@ -10,23 +10,24 @@
 ## About the Project
 
 **A1**: 
-- Explain the motivation behind the project.
-- Describe what problem it solves or the goal it achieves.
+- Linear Algebra, Probability, and Calculus Review.
 
 **A2**:
-- Provide a high-level overview of the project's folder structure.
+- Implement KNN, K-Means, Random Forest Classification.
 
 **A3**:
-- Provide a high-level overview of the project's folder structure.
-  
+- Implemented Least Square Sum, Weighted Least Square Sum.
+- Linear Regression with Gradient Descent, Robust Regression with Gradient Descent.
+- Least_squares with bias and polynomial_fits.
+
 **A4**:
-- Provide a high-level overview of the project's folder structure.
+- L0, L1, L2 regularization.
   
 **A5**:
-- Provide a high-level overview of the project's folder structure.
+- Stochastic Gradient Descent.
   
 **A6**:
-- Provide a high-level overview of the project's folder structure.
+- Robust PCA.
 
 ## Technologies Used
 - List the programming languages, libraries, frameworks, and tools used in the project:
